@@ -1,3 +1,2 @@
-# calculaai
-
-- [] Metas
+- [ ] Metas
+- [ ] teste
