@@ -1,2 +1,3 @@
 # calculaai
-Um site :D
+
+- [] Metas
